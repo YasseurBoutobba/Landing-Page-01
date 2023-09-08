@@ -1,11 +1,11 @@
-# Responsive Landing Page
+# Landing Page 01
 
 This is a simple HTML and CSS responsive landing page that I created while learning the basics of web development. This project is designed to showcase my understanding of HTML and CSS and demonstrate a responsive design that adapts to different screen sizes.
 
 ## Project Overview
 
 You can perview the landing page in the link below :
-
+https://yasseurboutobba.github.io/Landing-Page-01/
 
 ## Getting Started
 
